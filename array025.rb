@@ -15,3 +15,4 @@ end
 puts ("el promedio es #{promedio}")
 puts ("el valor maximo es #{a[9]}")	
 puts ("el valor minimo es ")
+puts " "
