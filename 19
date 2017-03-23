@@ -1,0 +1,7 @@
+a=[]
+for i in 0..10 do
+	a[i]=rand(100)
+end
+for i in a.length-1 do
+	puts "#{a[i],}"
+end
